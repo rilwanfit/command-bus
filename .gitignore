@@ -1,0 +1,9 @@
+/vendor/
+
+###> phpunit/phpunit ###
+phpunit.xml
+###< phpunit/phpunit ###
+
+.idea
+.DS_Store
+
